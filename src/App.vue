@@ -26,17 +26,17 @@ export default {
     return {
       friends: [
         {
-          id: 'manuel',
-          name: 'Manuel Lorenz',
-          phone: '0123 45678 90',
-          email: 'manuel@localhost.com',
+          id: '01',
+          name: 'Ukkasha Ali',
+          phone: '0321 2506074',
+          email: 'ukkasha.ali2k@gmail.com',
           isFavorite: true,
         },
         {
-          id: 'julie',
-          name: 'Julie Jones',
-          phone: '0987 654421 21',
-          email: 'julie@localhost.com',
+          id: '02',
+          name: 'Ameen Khan',
+          phone: '0333 3456778',
+          email: 'ameen@gmail.com',
           isFavorite: false,
         },
       ],
